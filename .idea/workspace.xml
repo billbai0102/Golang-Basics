@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3baa185f-be51-4487-baa9-4483a3f802f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tickers.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/channel-buffering.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel-buffering.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/channel-directions.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel-directions.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/channel-synchronization.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel-synchronization.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/channels.go" beforeDir="false" afterPath="$PROJECT_DIR$/channels.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goroutines.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutines.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods.go" beforeDir="false" afterPath="$PROJECT_DIR$/methods.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/non-blocking-channel-operations.go" beforeDir="false" afterPath="$PROJECT_DIR$/non-blocking-channel-operations.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pointers.go" beforeDir="false" afterPath="$PROJECT_DIR$/pointers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/select.go" beforeDir="false" afterPath="$PROJECT_DIR$/select.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structs.go" beforeDir="false" afterPath="$PROJECT_DIR$/structs.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timeouts.go" beforeDir="false" afterPath="$PROJECT_DIR$/timeouts.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/closing-channels.go" beforeDir="false" afterPath="$PROJECT_DIR$/closing-channels.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/range-over-channels.go" beforeDir="false" afterPath="$PROJECT_DIR$/range-over-channels.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timers.go" beforeDir="false" afterPath="$PROJECT_DIR$/timers.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,5 +87,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1159" y="159" key="#go_build_test.go/0.0.1920.1040@0.0.1920.1040" timestamp="1583533521176" />
+    <state x="1065" y="118" key="CommitChangelistDialog2" timestamp="1583699713685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1065" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583699713685" />
   </component>
 </project>
