@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3baa185f-be51-4487-baa9-4483a3f802f9" name="Default Changelist" comment="" />
+    <list default="true" id="3baa185f-be51-4487-baa9-4483a3f802f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel-buffering.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel-buffering.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel-directions.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel-directions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel-synchronization.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel-synchronization.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channels.go" beforeDir="false" afterPath="$PROJECT_DIR$/channels.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutines.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutines.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods.go" beforeDir="false" afterPath="$PROJECT_DIR$/methods.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-blocking-channel-operations.go" beforeDir="false" afterPath="$PROJECT_DIR$/non-blocking-channel-operations.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointers.go" beforeDir="false" afterPath="$PROJECT_DIR$/pointers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/select.go" beforeDir="false" afterPath="$PROJECT_DIR$/select.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structs.go" beforeDir="false" afterPath="$PROJECT_DIR$/structs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeouts.go" beforeDir="false" afterPath="$PROJECT_DIR$/timeouts.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +31,7 @@
   </component>
   <component name="GOROOT" path="C:/Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Golang-Basics" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YguBiLAaX5gKuugl5TlIIfqw6U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
