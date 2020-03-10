@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3baa185f-be51-4487-baa9-4483a3f802f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rate-limiting.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workers-pools.go" beforeDir="false" afterPath="$PROJECT_DIR$/workers-pools.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/waitgroups.go" beforeDir="false" afterPath="$PROJECT_DIR$/waitgroups.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
@@ -81,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -89,7 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tickers in go" />
-    <option name="LAST_COMMIT_MESSAGE" value="tickers in go" />
+    <MESSAGE value="worker pools" />
+    <option name="LAST_COMMIT_MESSAGE" value="worker pools" />
   </component>
   <component name="WindowStateProjectService">
     <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583547126783">
@@ -100,9 +105,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1159" y="159" key="#go_build_test.go/0.0.1920.1040@0.0.1920.1040" timestamp="1583533521176" />
-    <state x="1065" y="118" key="CommitChangelistDialog2" timestamp="1583700369076">
+    <state x="1065" y="118" key="CommitChangelistDialog2" timestamp="1583647340538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1065" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583700369076" />
+    <state x="1065" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583647340538" />
+    <state x="728" y="152" key="SettingsEditor" timestamp="1583701553001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="152" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583701553001" />
   </component>
 </project>
