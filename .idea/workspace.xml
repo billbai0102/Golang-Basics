@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3baa185f-be51-4487-baa9-4483a3f802f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/atomic-counters.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mutexes.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,5 +113,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="728" y="152" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583701553001" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1584323388767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584323388767" />
   </component>
 </project>
